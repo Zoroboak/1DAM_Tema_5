@@ -12,7 +12,7 @@ import java.util.Scanner;
  * 
  * 	Ejercicio de programación donde aprendemos a utilizar flujos
  * 
- * 	28/02/2019 
+ * 	28/02/2019  
  * 
  * 
  * */
